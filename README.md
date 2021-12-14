@@ -3,17 +3,12 @@
 <p>Esse Conversor de moedas foi escrito em React.JS com *auxílio* (não cópia) do   Programador Br">vídeo</a> de React.JS do Programador BR. A obtenção dos valores das moedas atuais foi feita através da API Free.Currency disponibilizada <a href="https://free.currencyconverterapi.com/" alt="Link da API Free.Converter">aqui</a>.
 </p><h3><a href="https://pt-br.reactjs.org/">🔗 React</a></h3><p >🚀 lib para construir interfaces do usuário com componentes reutilizáveis.</p>
 
-<a href="https://github.com/VictorSilva15/Conversor_React/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/VictorSilva15/Conversor_React?style=for-the-badge"></a>
-<a href="https://github.com/VictorSilva15/Conversor_React/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/VictorSilva15/Conversor_React?style=for-the-badge"></a>
-<a href="https://github.com/VictorSilva15/Conversor_React"><img alt="GitHub license" src="https://img.shields.io/github/license/VictorSilva15/Conversor_React?logo=MIT&style=for-the-badge"></a>
-<a href="https://github.com/VictorSilva15/Conversor_React/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/VictorSilva15/Conversor_React?style=social"></a>
 
 <h2> Status do Projeto</h2>
 <h4> React Select 🚀 Finzalizado  👍 </h4>
 <h2>Demonstração</h2>
 
-<img align="center" src="./screenshots/Conversor_print.png" alt="Demonstração da aplicação rodando">
-<p>A aplicação está hospedada na <a href="https://vercel.com/dashboard" alt="Link da Vercel.com">Vercel</a> que é uma plataforma voltada para a hospedagem de aplicações de uma forma bem simples e rápida. Ela é conhecida por ser a empresa criadora do framework Next JS, voltado para o React.</p><a href="https://vercel.com/victorhugo15/conversor-react" alt="Link do Conversor em funcionamento">Acesse aqui</a>
+<img align="center" src="./screenshots/ConversordeMoedas.png" alt="Demonstração da aplicação rodando">
 
 <h2>Como usar</h2>
 
@@ -103,16 +98,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70340221?v=4" width="100px;" alt="Victor"/>
- <sub><b>Victor Hugo</b></sub>🚀
 
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito com ❤️ por Victor Hugo da Silva 👋🏽 Entre em contato!
-
----
-
-[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/victor-silva-9485021b2/)
-[![Gmail Badge](https://img.shields.io/badge/-victor470hugo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:victor470hugo@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/filipe-moreira-a2268216a//)

@@ -99,4 +99,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 
 
-[![Linkedin Badge](https://www.linkedin.com/in/filipe-moreira-a2268216a//)
+[Linkedin Badge](https://www.linkedin.com/in/filipe-moreira-a2268216a)

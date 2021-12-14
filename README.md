@@ -1,6 +1,6 @@
 # Conversor React.JS
 
-<p>Esse Conversor de moedas foi escrito em React.JS com *auxílio* (não cópia) do <a href="https://youtu.be/tbLziJchz48" alt="React JS - Criando um App do Zero - Programador Br">vídeo</a> de React.JS do Programador BR. A obtenção dos valores das moedas atuais foi feita através da API Free.Currency disponibilizada <a href="https://free.currencyconverterapi.com/" alt="Link da API Free.Converter">aqui</a>.
+<p>Esse Conversor de moedas foi escrito em React.JS com *auxílio* (não cópia) do   Programador Br">vídeo</a> de React.JS do Programador BR. A obtenção dos valores das moedas atuais foi feita através da API Free.Currency disponibilizada <a href="https://free.currencyconverterapi.com/" alt="Link da API Free.Converter">aqui</a>.
 </p><h3><a href="https://pt-br.reactjs.org/">🔗 React</a></h3><p >🚀 lib para construir interfaces do usuário com componentes reutilizáveis.</p>
 
 <a href="https://github.com/VictorSilva15/Conversor_React/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/VictorSilva15/Conversor_React?style=for-the-badge"></a>

@@ -6,9 +6,12 @@
 
 <h2> Status do Projeto</h2>
 <h4> React Select 🚀 Finzalizado  👍 </h4>
+
+
 <h2>Demonstração</h2>
 
-<img src="./screenshots/Conversor de Moedas.jpg" alt="Demonstração da aplicação rodando">
+<img  src="./screenshots/ConversordeMoedas.jpg" alt="Demonstração da aplicação rodando">
+
 
 <h2>Como usar</h2>
 

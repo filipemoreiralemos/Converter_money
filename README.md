@@ -7,12 +7,6 @@
 <h2> Status do Projeto</h2>
 <h4> React Select 🚀 Finzalizado  👍 </h4>
 
-
-<h2>Demonstração</h2>
-
-<img  src="./screenshots/ConversordeMoedas.jpg" alt="Demonstração da aplicação rodando">
-
-
 <h2>Como usar</h2>
 
  <p>Estando no com a aplicação aberta em seu navegador, será apresentado alguns Cards. Esses cards contem um campo de input onde só é permitido valores númericos e é requisitado a entrada de dados da parte do usuário para a exibição do valor convertido logo abaixo da caisa de input.</p>

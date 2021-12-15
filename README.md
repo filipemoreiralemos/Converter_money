@@ -13,7 +13,7 @@
 <h2>Como usar</h2>
 
  <p>Estando no com a aplicação aberta em seu navegador, será apresentado alguns Cards. Esses cards contem um campo de input onde só é permitido valores númericos e é requisitado a entrada de dados da parte do usuário para a exibição do valor convertido logo abaixo da caisa de input.</p>
- <img src="./screenshots/card-USD-to-BRL-React-print.png" alt="Ilustração card-conversor">
+ <img src="./screenshots/Card.png" alt="Ilustração card-conversor">
  <p>A aplicação contém diferentes cards para a conversão poder ser feita em difenretes moedas do mundo, sendo elas BRL USD CAD JPY e EUR.</p>
 
  <h2> Pré-requisitos e como rodar a aplicação/testes </h2>

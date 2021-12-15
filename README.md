@@ -8,7 +8,7 @@
 <h4> React Select 🚀 Finzalizado  👍 </h4>
 <h2>Demonstração</h2>
 
-<img align="center" src="./screenshots/Conversor de Moedas.jpg" alt="Demonstração da aplicação rodando">
+<img src="center" src="./screenshots/Conversor de Moedas.jpg" alt="Demonstração da aplicação rodando">
 
 <h2>Como usar</h2>
 
